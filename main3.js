@@ -1,18 +1,21 @@
 
-const imagens
+
+const Roma_Coliseo="day3/pexels-wal-lod-14615839.jpg";
+const cidade_SP="day3/pexels-caio-45917.jpg";
+const imagens=Roma_Coliseo,cidade_SP;
 var imagem="";
-for (){
+//for (){
 if (cidade === “Roma”){
     // mostre a foto do “Coliseu”
 mostrarfoto();
-}}
+}//}
 
 
 
 mostrarfoto(imagem){
 
 //trocafumdo da div
- background-image:url(imagem);
+imagemdiv.style="background-image:url(imagem)";
 }
 
 var meumenu=document.querySelectorAll(".menu");
