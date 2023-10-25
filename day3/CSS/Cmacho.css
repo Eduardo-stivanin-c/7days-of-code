@@ -1,0 +1,47 @@
+
+/*de cfemea � base  , cmacho � copia adaptada pra lista */
+
+#lista{
+background-color:#7FFFD4;
+
+
+}
+textarea{
+font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgba(41, 16, 225, 1)
+
+width:auto;
+heigth:350px;
+/**/
+}
+input{font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgb(225,225,225);
+background-COLOR:rgba(213,109,201,100);
+
+}
+select{font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,100);
+background-COLOR:rgba(213,109,201,100);
+
+}
+iframe{
+border-color:rgba(213,109,201,100);
+}/*delimitando imagens*/
+img{
+width : 3cm;
+height:4cm;
+}
+
+
+/*textarea usada como lista*/
+
+/*`phe	1*3*/

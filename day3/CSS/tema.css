@@ -1,0 +1,821 @@
+/*html,body{height: 100%;width: 100%;}*/
+body{background-color:#7FFFD4}
+
+
+
+
+
+textarea {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgb(43, 40, 40);
+
+ width:350px;
+    heigth: 350px;
+}
+
+input {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgba(0, 0, 0, 1);
+   /* background-COLOR: rgb(12,132,214)5)*/
+}
+
+select {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgba(0, 0, 0, 1) background-COLOR:rgba(213,109,201,100);
+}
+
+iframe {
+    border-color: transparent;
+    width : 100%;
+    height: 100%;
+	
+}
+
+#some{
+overflow:hidden;
+
+}
+
+
+img {
+    width : 3cm;
+    height: 4cm;
+}
+
+body {
+    background-color: rgb(12,132,214);
+margin:2%;
+
+float:center;
+
+}
+
+p {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgba(25,25,112,100);
+}
+
+text {
+    FONT-FAMILY: "algerian";
+    font-size: "11cm";
+    COLOR: rgba(25,25,112,100);
+}
+
+li {
+    COLOR: rgb(12,132,214);
+    background-color(255,255,0); }
+
+input {
+    font-family="Adobe Garamond Pro Bold" font-size="48" }
+	
+	
+/*código de arquivo C(4).css adionado usadno navegador*/
+/*
+
+eduardo
+
+*/
+
+body{background-color:#7FFFD4;FONT-FAMILY:"algerian";COLOR: green ; }
+
+
+
+textarea{font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";COLOR:rgba(225,225,225,10);background-COLOR:rgba(213,109,201,100);width:354px;height:470px;}
+
+/*fundo verde agua, letra azul,translucido
+
+margens:3cm
+
+*/
+
+/* formata titulo,negrita titulo,tamanho 48 margem esquerda 3cm*/
+
+p{font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";COLOR:rgba(25,25,112,100);}/
+
+
+
+text{FONT-FAMILY:"algerian";font-size:"11cm";COLOR:rgba(25,25,112,100);}/*grifa poe cor na referencia*/
+
+
+
+li{COLOR:rgb(12,132,214);background-color(255,255,0);}
+
+
+
+BIG{font-family"Adobe Garamond Pro Bold";font-size"80";background-COLOR:rgba(213,109,201,100);}
+
+
+
+#lista{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);background-COLOR:rgba(213,109,201,100); width:auto;}
+
+
+
+/*abaixo categorias do hospital*/
+
+
+
+#azul{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*fundo azul medio*/
+
+background-COLOR:#117b9e;
+
+
+
+}
+
+
+#vermelho{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+background-COLOR: 9e0103;
+
+/*vermelho escuro*/
+
+}
+
+
+
+/* probelmas respitarios respiratorios*/
+
+#dourado{ /*branco de fundo*/
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*dourado*/
+
+background-COLOR: #c4b812;
+
+}
+
+
+
+#roxo{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+background-COLOR: #7b07f6;}
+
+
+
+#invisivel{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*configula invisibilidade de fundo*/
+
+background-COLOR: transparent;
+
+border-color:transparent;
+
+}
+
+
+
+/* formatando divisorias abaixo em div */
+
+
+
+div{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);}
+
+
+
+
+
+#verde{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*fundo verde  medio*/
+
+background-COLOR:#4da516;}
+
+
+
+
+
+input{font-style:"bold"
+
+font-size:"13.2cm";
+
+margin-left:"30px";
+
+FONT-FAMILY:"arial black";
+
+COLOR:rgb(225,225,225);
+
+background-COLOR:rgba(213,109,201,100);
+
+
+
+}
+
+select{font-style:"bold"
+
+font-size:"13.2cm";
+
+margin-left:"30px";
+
+FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,100);
+
+background-COLOR:rgba(213,109,201,100);
+
+
+
+}
+
+iframe{
+
+border-color:rgba(213,109,201,100);
+
+}/*delimitando imagens*/
+
+
+
+
+
+img,figure{
+
+width:3cm;
+
+heigth: 4cm;
+
+}
+
+/*cbabckup(2).css*/
+
+
+
+/*
+eduardo
+*/
+body{background-color:#7FFFD4;FONT-FAMILY:"algerian";COLOR: green ; }
+
+textarea{font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";COLOR:rgba(225,225,225,10);background-COLOR:rgba(213,109,201,100);width:354px;height:470px;}
+/*fundo verde agua, letra azul,translucido
+margens:3cm
+*/
+/* formata titulo,negrita titulo,tamanho 48 margem esquerda 3cm*/
+p{font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";COLOR:rgba(25,25,112,100);}/
+
+text{FONT-FAMILY:"algerian";font-size:"11cm";COLOR:rgba(25,25,112,100);}/*grifa poe cor na referencia*/
+
+li{COLOR:rgb(12,132,214);background-color(255,255,0);}
+
+BIG{font-family"Adobe Garamond Pro Bold";font-size"80";background-COLOR:rgba(213,109,201,100);}
+
+#lista{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);background-COLOR:rgba(213,109,201,100); width:auto;}
+
+/*abaixo categorias do hospital*/
+
+#azul{
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);width:auto;
+/*fundo azul medio*/
+background-COLOR:#117b9e;
+
+}
+
+
+
+#vermelho{
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);width:auto;
+background-COLOR: 9e0103;
+/*vermelho escuro*/
+}
+
+
+/* probelmas respitarios respiratorios*/
+#dourado{ /*branco de fundo*/
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);width:auto;
+/*dourado*/
+background-COLOR: #c4b812;
+}
+
+#roxo{
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);width:auto;
+background-COLOR: #7b07f6;}
+
+#invisivel{
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);width:auto;
+/*configula invisibilidade de fundo*/
+background-COLOR: transparent;
+border-color:transparent;
+}
+
+/* formatando divisorias abaixo em div */
+
+div{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);}
+
+
+#verde{
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,225);width:auto;
+/*fundo verde  medio*/
+background-COLOR:#4da516;}
+
+
+input{font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgb(225,225,225);
+background-COLOR:rgba(213,109,201,100);
+
+}
+select{font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,100);
+background-COLOR:rgba(213,109,201,100);
+
+}
+iframe{
+border-color:rgba(213,109,201,100);
+}/*delimitando imagens*/
+
+
+img,figure{
+width:3cm;
+heigth: 4cm;
+}
+
+
+/* rdd mostra isso*/
+
+body{
+
+FONT-FAMILY:"algerian";
+
+background-color:#7FFFD4;
+
+COLOR: green
+
+}
+
+/*fundo verde aguaa, letra verde*/
+
+/*11*/
+
+/*#12C04a?8*//*Cfemea2_20-10-2019.css*/
+
+
+
+
+textarea {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgb(43, 40, 40) background-COLOR:rgba(225,225,225,100) width:350px;
+    heigth: 350px;
+}
+
+input {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgba(0, 0, 0, 1);
+    background-COLOR: rgb(12,132,214)5)
+}
+
+select {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgba(0, 0, 0, 1) background-COLOR:rgba(213,109,201,100);
+}
+
+iframe {
+    border-color: transparent;
+    width : 100%;
+    height: 100%;
+	
+}
+
+#some,h3{
+
+overflow:hidden;
+
+}
+
+
+img {
+    width : 3cm;
+    height: 4cm;
+}
+
+body {
+    background-color: rgb(12,132,214);
+margin:2%;
+
+float:center;
+
+}
+
+p {
+    font-style: "bold" font-size:"13.2cm";
+    margin-left: "30px";
+    FONT-FAMILY: "arial black";
+    COLOR: rgba(25,25,112,100);
+}
+
+text {
+    FONT-FAMILY: "algerian";
+    font-size: "11cm";
+    COLOR: rgba(25,25,112,100);
+}
+
+li {
+    COLOR: rgb(12,132,214);
+    background-color(255,255,0); }
+
+input {
+    font-family"Adobe Garamond Pro Bold" font-size"48" }
+/body
+/*de cfemea Ã© base  , cmacho Ã© copia adaptada pra lista
+Cmacho (3).css abaixo
+*/
+
+#lista{
+background-color:#7FFFD4;
+
+
+}
+textarea{
+font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgba(41,16, 225, 1)
+
+width:auto;
+heigth:350px;
+/**/
+}
+input{font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgb(225,225,225);
+background-COLOR:rgba(213,109,201,100);
+
+}
+select{font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgba(225,225,225,100);
+background-COLOR:rgba(213,109,201,100);
+
+}
+iframe{
+border-color:rgba(213,109,201,100);
+}/*delimitando imagens*/
+img{
+width : 3cm;
+height:4cm;
+}
+
+
+/*textarea usada como lista*/
+
+/*`phe	1*3*/
+
+body{background-color:#7FFFD4;FONT-FAMILY:"algerian";COLOR: green ; }
+
+
+
+textarea{font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";COLOR:rgba(225,225,225,10);background-COLOR:rgba(213,109,201,100);width:354px;height:470px;}
+
+/*fundo verde agua, letra azul,translucido
+
+margens:3cm
+
+*/
+
+/* formata titulo,negrita titulo,tamanho 48 margem esquerda 3cm*/
+
+p{font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";COLOR:rgba(25,25,112,100);}/
+
+
+
+text{FONT-FAMILY:"algerian";font-size:"11cm";COLOR:rgba(25,25,112,100);}/*grifa poe cor na referencia*/
+
+
+
+li{COLOR:rgb(12,132,214);background-color(255,255,0);}
+
+
+
+BIG{font-family"Adobe Garamond Pro Bold";font-size"80";background-COLOR:rgba(213,109,201,100);}
+
+
+
+#lista{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);background-COLOR:rgba(213,109,201,100); width:auto;}
+
+
+
+/*abaixo categorias do hospital*/
+
+
+
+#azul{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*fundo azul medio*/
+
+background-COLOR:#117b9e;
+
+
+
+}
+
+
+
+
+
+
+
+#vermelho{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+background-COLOR: 9e0103;
+
+/*vermelho escuro*/
+
+}
+
+
+
+
+
+/* probelmas respitarios respiratorios*/
+
+#dourado{ /*branco de fundo*/
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*dourado*/
+
+background-COLOR: #c4b812;
+
+}
+
+
+
+#roxo{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+background-COLOR: #7b07f6;}
+
+
+
+#invisivel{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*configula invisibilidade de fundo*/
+
+background-COLOR: transparent;
+
+border-color:transparent;
+
+}
+
+
+
+/* formatando divisorias abaixo em div */
+
+
+
+div{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);}
+
+
+
+
+
+#verde{
+
+font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);width:auto;
+
+/*fundo verde  medio*/
+
+background-COLOR:#4da516;}
+
+
+
+
+
+input{font-style:"bold"
+
+font-size:"13.2cm";
+
+margin-left:"30px";
+
+FONT-FAMILY:"arial black";
+
+COLOR:rgb(225,225,225);
+
+background-COLOR:rgba(213,109,201,100);
+
+
+
+}
+
+select{font-style:"bold"
+
+font-size:"13.2cm";
+
+margin-left:"30px";
+
+FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,100);
+
+background-COLOR:rgba(213,109,201,100);
+
+
+
+}
+
+iframe{
+
+border-color:rgba(213,109,201,100);
+
+}/*delimitando imagens*/
+
+
+
+
+
+img,figure{
+
+width:3cm;
+
+heigth: 4cm;
+
+}
+
+
+
+
+
+BIG{
+
+font-family"Adobe Garamond Pro Bold"
+
+font-size"80"
+
+background-COLOR:rgba(213,109,201,100);
+
+
+
+}#MENU{border-top-width: 0px;border-top-style: solid;border-right-width: 0px;border-right-style: solid;border-bottom-width: 0px;border-bottom-style: solid;border-left-width: 0px;border-left-style: solid;padding-left: 0px;padding-bottom: 0px;padding-right: 0px;padding-top: 0px
+}/*formatação por id*/
+
+/*se text.idmostra entao alinha como propaganda */
+
+mostrar{
+
+align"middle"
+
+
+
+}body{
+ background-image:url("rascunho.png");
+height: 100%;
+width: 100%;
+}html{margin: 5%;}
+
+FORM{width: AUTO;
+
+    height: AUTO;
+
+
+
+}
+
+
+
+div{
+
+margin: 1%;} #azul{
+
+/*fundo azul medio*/
+
+background-COLOR:#117b9e;
+
+
+
+}
+
+#vermelho{
+
+background-COLOR: 9e0103;
+
+/*vermelho escuro*/
+
+}
+
+
+
+
+
+/* probelmas respitarios respiratorios*/
+
+#dourado{
+
+/*dourado*/
+
+background-COLOR: #c4b812;
+
+}
+
+#roxo{
+
+background-COLOR: #7b07f6;}
+
+/* formatando divisorias abaixo em div */
+
+div{font-style:"bold" font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";
+
+COLOR:rgba(225,225,225,225);}
+
+#verde{
+
+/*fundo verde  medio*/
+
+background-COLOR:#4da516;}
+
+input{font-style:"bold";}
+
+#drogas{
+
+color:green;
+
+font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";background-COLOR:rgba(213,109,201,100);width:354px;height:470px;
+
+}
+#outros{
+
+color:purple
+
+font-style:"bold";font-size:"13.2cm";margin-left:"30px";FONT-FAMILY:"arial black";background-COLOR:rgba(213,109,201,100);width:354px;height:470px;
+
+}
+}

@@ -1,0 +1,32 @@
+/* rdd mostra isso*/
+body{
+
+background-color:#7FFFD4;
+
+
+}
+
+
+/*fundo verde agua, letra azul,translucido
+margens:3cm
+
+*/
+/* formata titulo,negrita titulo,tamanho 48 margem esquerda 3cm*/
+p{
+font-style:"bold"
+font-size:"13.2cm";
+margin-left:"30px";
+FONT-FAMILY:"arial black";
+COLOR:rgba(25,25,112,100);
+
+}/
+text{
+FONT-FAMILY:"algerian";
+font-size:"11cm";
+COLOR:rgba(25,25,112,100);
+}/*grifa poe cor na referencia*/
+li{
+COLOR:rgb(12,132,214);
+
+background-color(255,255,0);
+}
