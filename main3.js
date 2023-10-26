@@ -15,13 +15,6 @@ var carregarimagens=[      String("day3/pexels-wal-lod-14615839.jpg") , String (
 //,String( "day3/pexels-filippo-bergamaschi-2767739.jpg")
 //pegando os botões
 
-<<<<<<< HEAD
-=======
-
-const cidade_SP="day3/pexels-caio-45917.jpg";
-//const imagens = Roam_coliseu  , cudiade de São Pulao fot
-const imagens="day3/pexels-wal-lod-14615839.jpg",cidade_SP;
->>>>>>> e2813d6a8e5eb7ca81306aa3d4f2cc79fe076deb
 var imagem="";
 //for (){
   /**/
