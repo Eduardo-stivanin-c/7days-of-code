@@ -1,0 +1,9 @@
+o manifes.json foi usado a  licençça do Jquery e esta extensão fica sujeita a licencça de Bossotrpa e Jquery pq usa essa bibliotecas
+
+https://www.youtube.com/watch?v=iVkSlNNShsk
+https://support.google.com/chrome/a/answer/2714278?hl=pt-BR
+pra compilar tem que ser no Edge se somente nele mesmo pesquise sobre ferrmanetas de criaextne~so do navegador
+https://qastack.com.br/programming/9515704/insert-code-into-the-page-context-using-a-content-script
+esqueci de anotoar outrasa refernecias
+
+https://developer.mozilla.org/pt-BR/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension

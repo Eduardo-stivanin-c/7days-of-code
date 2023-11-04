@@ -1,0 +1,18 @@
+{
+  "name": "Tchaeditortext",
+  "short_name":"Tchatext",
+ 
+ "version": "8.0",
+  "description": "kit de modelos prontos pra sites. coma arquivos reusados de 2019 priiro ano de curso de tecnico de DS",
+"icons":{
+"1024": "icon/icone1024X1024.png"
+},  
+  "browser_action":{
+ "default_popup":"index.html"
+   },
+   
+  "manifest_version":2
+  }
+
+  
+  

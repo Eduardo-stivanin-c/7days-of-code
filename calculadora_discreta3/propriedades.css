@@ -1,0 +1,29 @@
+#corpo{
+	/*define fundo da imagemdoda ba da extensão*/
+/*background-image:index_files\jquery-ui-1.12.1\images\ui-icons_cc0000_256x240.png*/
+   background-color: cadetblue;
+}/*requer css e do Boostrap e do Jquery pra dar certo o menu*/
+
+
+#menuid,.minhaclassecss{
+	    margin: 200px;
+	  
+}
+a{
+aligh:rigth;
+margin-left:23cm;}
+/*
+E  os campo prapreeencherp recisam estar vocm  a classe  class="form-control" pro Boostrpa agir drieto no menu
+conultei isso no site od Boostrap
+*/
+#texto{background: #c0c0c0}
+text{margin-left=10%}
+
+input[type=file]{
+	background
+	/*https://pt.stackoverflow.com/questions/41643/d%C3%BAvida-sobre-estiliza%C/3%A7%C3%A3o-de-input-submit
+a foto de clips https://www.pexels.com/pt-br/foto/foto-do-clipe-de-papel-roxo-sobre-fundo-verde-3690543/
+
+
+	*/
+}
