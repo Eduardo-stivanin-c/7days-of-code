@@ -1,6 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html >
+
+<html>
 <!-- saved from url=(0057)file:///C:/xampp/htdocs/google.com/calculadora%20xor.html -->
-<html><!--?php
+<!--?php
 //nome do site quer falsificar
 $nomedositefalso="calculadora";
 $autor="eduardo";
@@ -31,12 +33,14 @@ $descrição="site do google ,buscador";
 <link rel="stylesheet" type="text/css" href="./index_files/jquery-ui-1.12.1/jquery-ui-1.12.1/">
 <link rel="stylesheet" type="text/css" href="./index_files/jquery-ui-1.12.1/jquery-ui.theme.min.css">
 <link rel="stylesheet" type="text/css" href="./index_files/jquery-ui-1.12.1/jquery-ui.structure.min.css">
+
+-->
 <link rel="stylesheet" type="text/css" href="propriedades.css">
 <!--	https://www.keniaferreira.com/2012/12/incluindo-o-codigo-javascript-em-um.html#:~:text=H%C3%A1%20a%20possibilidade%20de%20voc%C3%AA%20incluir%20um%20javascript,sua%20p%C3%A1gina%20incluindo%20a%20seguinte%20linha%3A%20%3Cscript%20src%3D%22nomedoseuarquivo.js%22%3E%3C%2Fscript%3E
 https://getbootstrap.com.br/docs/4.1/utilities/borders/  campo dcom bordas
 https://getbootstrap.com/docs/4.0/components/navbar/-->
 
-
+<link rel="stylesheet" type="text/css" href="day7.css">
 <style>
 </style>
 <!--reuso de site falso4 17 092021-->
@@ -49,26 +53,45 @@ https://getbootstrap.com/docs/4.0/components/navbar/-->
 	<meta name="description" content="site falso do google">
 	
 </head>
- <body  id="corpo" style="background-color: cadetblue;" class="conteiner-fluid,col-sm-4;" lang="pt-BR" dir="ltr" border="1px">
+ <body  id="corpo"  class="conteiner-fluid,col-sm-4;" lang="pt-BR" dir="ltr" >
  <!----estrutrura dae calculador  usadno boostraps na classe btn btn-Primary  de Css do Boostrap -->
  <center>
- <input id="campo" type="text" class="btn btn-Primary" value="" onclick="convertpranumero()" title="nome" autocomplete="on" placeholder=""><p></p>
- <hr>
- <input id="barra" type="button"class="btn btn-Primary" value="/" onclick="">
- <input id="PItecla" title="PI" type="button" class="btn btn-Primary"  onclick="campo.value=campo.value + Math.PI" value="PI" >
+	<!--imprimir opções-->
+	<text id="demo">
+		
+	</text>
+	<!--btn-Primary"-->
+	<hr>
+
+ <input id="campo" type="text" class="btn  "  value="" onclick="convertpranumero()" title="nome" autocomplete="on" placeholder=""><p></p>
+ <input id="" type="text" class="btn memoriacalculadora"  value=""  autocomplete="off">
+ <input id="memoriacalculadora" type="text" class="btn memoriacalculadora"  value=""  autocomplete="off">
+ <input id="memoriacalculadora" type="text" class="btn memoriacalculadora"  value=""  autocomplete="off">
+ <p></p>
+ 
+ <!---->
+ <input id="barra" type="button"class="btn btn-Primary" value="/" >
+ <!--<input id="PItecla" title="PI" type="button" class="btn btn-Primary"  onclick="campo.value=campo.value + Math.PI" value="PI" >-->
  <input id="X" type="button" class="btn btn-Primary" value="*" >
- <input id="-" type="button" class="btn btn-Primary" value="-" onclick="campo.value=campo.value + '-'">
- <input id="+" type="button" class="btn btn-Primary" value="+" onclick="campo.value=campo.value + '+'"><br>
- <input id="7" type="button" class="btn btn-Primary" value="7" onclick="campo.value=campo.value +7">
- <input id="8" type="button" class="btn btn-Primary" value="8" onclick="campo.value=campo.value +Number(8)">
- <input id="9" type="button" class="btn btn-Primary" value="9" onclick="campo.value=campo.value +Number(9)"><br>
- <input type="button" class="btn btn-Primary" value="4" onclick="campo.value=campo.value +Number(4)">
- <input type="button" class="btn btn-Primary" value="5" onclick="campo.value=campo.value +'5'">
- <input type="button" class="btn btn-Primary" value="6" onclick="campo.value=campo.value +'6'"><br>
- <input type="button" class="btn btn-Primary" value="1" onclick="campo.value=campo.value +'1'">
- <input type="button" class="btn btn-Primary" value="2" onclick="campo.value=campo.value +'2'">
- <input type="button" class="btn btn-Primary" value="3" onclick="campo.value=campo.value +'3'"><br>
- <input type="button" class="btn btn-Primary" value="0" onclick="campo.value=campo.value +'0'">
+ <input id="-" type="button" class="btn btn-Primary "  value="-" >
+ <input id="+" type="button" class="btn btn-Primary" value="+" ><br>
+<!--nÃO ALTERE A ORDEM DOS 4 PRIMEIRO PORQUE DESCONFIGURA OS BOTÕES POEQ TEM AHAVER COM MATRIZ -->
+ <input id="7" type="button" class="btn btn-Primary" value="7" >
+ <input id="8" type="button" class="btn btn-Primary" value="8" >
+ <input id="9" type="button" class="btn btn-Primary" value="9" ><br>
+ <input type="button" class="btn btn-Primary" value="4" >
+ <input type="button" class="btn btn-Primary" value="5" >
+ <input type="button" class="btn btn-Primary" value="6" ><br>
+ <input type="button" class="btn btn-Primary" value="1" >
+ <input type="button" class="btn btn-Primary" value="2" >
+ <input type="button" class="btn btn-Primary" value="3" >
+ <br>
+ <input type="button" class="btn btn-Primary" value="memoria"  >
+ <input type="button" class="btn btn-Primary" value="0" >
+ <input type="button" class="btn btn-Primary" value="." >
+ 
+ <input type="button" class="btn igual" id="igual" value="=" >
+ 
  <div title="matematica discreta">
  <input type="button" title="verdadeiro" class="btn btn-Primary" value="True" onclick="campo.value=campo.value +'True'">
  <input type="button" title="falso" class="btn btn-Primary" value="False" onclick="campo.value=campo.value +'False'">
@@ -78,14 +101,14 @@ https://getbootstrap.com/docs/4.0/components/navbar/-->
 
  <!--o valor padrão que pus na paleta é branco-->
 <a id="link" href="">click here</a>
-<text id="demo"></text>
+
 <hr> 
 <!-->
 <input type="a" autocomplete="on" id="paleta" name="paleta" title="paleta" class="btn btn-Primary" value="#FFFFFF" onclick="configteclado()">
 --></center><!--
 <input  type="Url" title="Whatzap" id="navegador" value="" class="btn btn-Primary" >
 -->
-<script type="text/javascript" src="calculadora.js">
+<script type="text/javascript" src="calculadora_day7.js">
 
 
 </script>

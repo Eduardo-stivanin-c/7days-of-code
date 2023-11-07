@@ -1,0 +1,1 @@
+teclas[13].formula=(campo.value="")
